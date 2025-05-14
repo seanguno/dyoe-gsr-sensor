@@ -96,7 +96,7 @@ function processData(src,evt)
 end
 
 %% -------------------- save data -----------------------------
-%  Press Ctrl + C to stop the loop
+%  press Ctrl + C to stop the loop
 stop(d);
 delete(lh);
 
